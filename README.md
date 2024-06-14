@@ -2,10 +2,6 @@
 
 This repository contains the code for a modern and stylish landing page created using HTML, CSS, and JavaScript. The design is clean, responsive, and easy to customize, making it perfect for various types of websites.
 
-## Demo
-
-You can check out the live demo [here](#).
-
 ## Features
 
 - Responsive design for optimal viewing on all devices
